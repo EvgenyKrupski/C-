@@ -41,3 +41,7 @@ else
 {
     Console.Write("Воскресенье");
 }}}}}}}
+if (numberC > 7||numberC <= 0)
+{
+    Console.WriteLine("Вводите числа от 1 до 7");
+}
